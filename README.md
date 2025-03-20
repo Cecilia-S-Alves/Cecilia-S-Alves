@@ -1,5 +1,6 @@
 ## Olá
 Meu nome é Cecília, Atualmente sou aluna da Terceira fase do curso Técnico de Infomática!
+<br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-S-Alves&layout=compact&theme=dracula)
 <!--
 **Cecilia-S-Alves/Cecilia-S-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
