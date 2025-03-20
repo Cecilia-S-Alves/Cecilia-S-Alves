@@ -1,4 +1,4 @@
-## Olá
+## Olá  <img src="https://github.com/images/mona-whisper.gif" alt="Gif" width="80" height="80" style="margin: 10px;">
 Meu nome é Cecília, Atualmente sou aluna da Terceira fase do curso Técnico de Infomática!
 <br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-S-Alves&layout=compact&theme=dracula)
