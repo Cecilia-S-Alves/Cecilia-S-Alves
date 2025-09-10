@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 </p>-->
 
 <b>Meus Contatos</b>
+<br>
 Email: cecilia.s.alves1@outlook.com
+<br>
 Linkedin: www.linkedin.com/in/cecília-da-silva-alves
 
 
 <b>Linguagens:</b>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
-
+<li>
+Java
+MySQL
+Python
+JavaScript
+</li>
 
