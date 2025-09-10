@@ -1,6 +1,12 @@
 ## Olá  <img src="https://github.com/images/mona-whisper.gif" alt="Gif" width="80" height="80" style="margin: 10px;">
 Meu nome é Cecília, Atualmente sou aluna da quarta fase do curso Técnico de Infomática!
 <br>
+<b>Meus Contatos</b>
+<br>
+Email: cecilia.s.alves1@outlook.com
+<br>
+Linkedin: www.linkedin.com/in/cecília-da-silva-alves
+<br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-S-Alves&layout=compact&theme=dracula)
 <!--
 **Cecilia-S-Alves/Cecilia-S-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,18 +23,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 </p>-->
 
-<b>Meus Contatos</b>
-<br>
-Email: cecilia.s.alves1@outlook.com
-<br>
-Linkedin: www.linkedin.com/in/cecília-da-silva-alves
-
-
 <b>Linguagens:</b>
-<li>
-Java
-MySQL
-Python
-JavaScript
-</li>
+<ul>
+<li>Java
+<li>MySQL
+<li>Python
+<li>JavaScript
+</ul>
+
+
+
 
