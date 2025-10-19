@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <li>MySQL
 <li>Python
 <li>JavaScript
+<li>C++
 </ul>
 
 
