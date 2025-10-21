@@ -2,22 +2,23 @@
 Meu nome é Cecília, Atualmente sou aluna da quarta fase do curso Técnico de Infomática!
 <br> <br>
 <b>Meus Contatos</b>
-<br>
-Email: cecilia.s.alves1@outlook.com
-<br>
-Linkedin: www.linkedin.com/in/cecília-da-silva-alves
+  <br>
+  Email: cecilia.s.alves1@outlook.com
+  <br>
+  Linkedin: www.linkedin.com/in/cecília-da-silva-alves
+<br> <br>
+<b>Linguagens:</b><ul>
+  <li>Java
+  <li>Python
+  <li>JavaScript
+  <li>C++
+</ul>
+
+<b>Bancos de Dados:</b><ul> 
+  <li>MySQL
+  <li>Firebase
+</ul>
 <br> <br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-S-Alves&layout=compact&theme=dracula)
-<b>Linguagens:</b>
-<ul><li>Java
-<li>Python
-<li>JavaScript
-<li>C++
-</ul>
-<br>
-<b>Bancos de Dados:</b>
-<ul> 
-<li>MySQL
-<li>Firebase
-</ul>
+
 
