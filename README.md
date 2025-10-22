@@ -22,4 +22,3 @@ Meu nome é Cecília, Atualmente sou aluna da quarta fase do curso Técnico de I
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-S-Alves&layout=compact&theme=dracula)
 
-
